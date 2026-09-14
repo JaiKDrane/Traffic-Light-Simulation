@@ -11,3 +11,7 @@ While the train sensor is active, the side street will not have a green light an
 
 ### The State Diagram:
 <img width="1111" height="798" alt="image" src="https://github.com/user-attachments/assets/7c534cae-2a1f-470d-99ba-cb20c152fcec" />
+
+### State Table:
+<img width="1529" height="501" alt="image" src="https://github.com/user-attachments/assets/d72c0907-25a4-40b3-83fd-b4bcaeb1fe60" />
+
